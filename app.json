@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "CardMesh",
+    "slug": "cardmesh",
+    "scheme": "cardmesh",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#f6efe6"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#f6efe6"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}

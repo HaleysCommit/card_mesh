@@ -1,0 +1,4 @@
+- Work on the mobile-first Expo TypeScript app in this workspace.
+- Keep the first version focused on nearby-device discovery, local chat, inventory browsing, and convention broadcasts.
+- Prefer small, testable changes and keep the UI polished and convention-friendly.
+- Run `npm run typecheck` after edits that touch TypeScript.
